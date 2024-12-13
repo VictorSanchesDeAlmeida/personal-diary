@@ -9,7 +9,7 @@ Personal Diary System 📓
 Um simples sistema de diário pessoal desenvolvido em Java.
 O projeto utiliza ArrayList para armazenar objetos e organizar as entradas no diário.
 
-personal-diary/
+personal-diary/<br>
 │
 ├── .idea/                          # Configurações do projeto no IntelliJ IDEA
 ├── src/                            # Código-fonte principal do sistema
